@@ -1,3 +1,3 @@
-# atividade
-atividades em grupo 
-calem as bocas 
+# Exercício
+Atividade em grupo!!
+Grupo: Julia, Larissa, Andriel
